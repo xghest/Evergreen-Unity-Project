@@ -1,11 +1,10 @@
-# Unity generated folders
+# Ignore Unity Library/Temp/Logs/UserSettings etc.
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
 UserSettings/
 .vs/
 *.csproj
@@ -23,7 +22,18 @@ UserSettings/
 *.opendb
 *.VC.db
 
-# WebGL build folders
-WebGL Builds/
-connectwebgl.zip
-webgl_sharing/
+# Ignore entire asset folders that aren't yours
+Assets/2D Hand Painted Platformer Environment/
+Assets/character_obj/
+Assets/sprites/
+Assets/SPUM/
+Assets/VFX/
+Assets/TextMesh Pro/
+
+# Ignore all .meta files for those folders
+Assets/2D Hand Painted Platformer Environment/**/*.meta
+Assets/character_obj/**/*.meta
+Assets/sprites/**/*.meta
+Assets/SPUM/**/*.meta
+Assets/VFX/**/*.meta
+Assets/TextMesh Pro/**/*.meta
