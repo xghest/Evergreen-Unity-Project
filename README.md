@@ -39,3 +39,8 @@ Automatic UI pop-ups will guide you through instructions and tips during gamepla
 4. Play the game in the editor or build it for your platform.
    
 ---
+
+## 📜 License
+
+This project is a demo for personal/educational use.
+Assets from SPUM Bundle and Hand-Painted Platformer Environment are credited above.
