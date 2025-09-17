@@ -34,3 +34,8 @@ Automatic UI pop-ups will guide you through instructions and tips during gamepla
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/evergreen.git
+2. Open the project in Unity [insert version used]
+3. Load the main scene: Assets/Scenes/Main.unity
+4. Play the game in the editor or build it for your platform.
+   
+---
